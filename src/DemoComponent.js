@@ -1,9 +1,12 @@
 import React from 'react';
+import FaqSection from './components/FaqSection/FaqSection';
+import Navbar from './components/Navbar/Navbar';
 
 const DemoComponent = () => {
   return (
-    <div className="">
-      hello world
+    <div>
+      <Navbar/>
+      <FaqSection/>
     </div>
   );
 }

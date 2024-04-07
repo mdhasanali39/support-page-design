@@ -16,7 +16,7 @@ const Navbar = () => {
 
       <ul className="flex items-center gap-3">
         <li>
-          <a href="example.com">Go to website <FontAwesomeIcon className="text-blue-500 text-sm" icon={faArrowUpRightFromSquare} /></a>
+          <a href="example.com">Go to home <FontAwesomeIcon className="text-blue-500 text-sm" icon={faArrowUpRightFromSquare} /></a>
         </li>
         <li>
           <a href="example.com">Go to Help Center <FontAwesomeIcon className="text-blue-500 text-sm" icon={faArrowUpRightFromSquare} /></a>
