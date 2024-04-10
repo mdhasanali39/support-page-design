@@ -5,7 +5,7 @@ import Footer from './components/Footer/Footer';
 
 const DemoComponent = () => {
   return (
-    <div>
+    <div className='overflow-hidden'>
       <Navbar/>
       <FaqSection/>
       <Footer/>
